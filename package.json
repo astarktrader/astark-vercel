@@ -1,0 +1,8 @@
+{
+  "name": "astark-vercel",
+  "private": true,
+  "scripts": {
+    "dev": "cd client && npm start",
+    "build": "cd client && npm run build"
+  }
+}
